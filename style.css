@@ -1,2 +1,17 @@
 body{
-	background:lightslategreys;}
+	background:lightsteelblue;
+	text-align: center;
+}
+p {
+  text-align: center;
+  color: black;
+}
+
+.city {
+	text-decoration: underline;
+}
+
+
+
+
+
